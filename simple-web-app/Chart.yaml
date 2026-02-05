@@ -1,0 +1,6 @@
+apiVersion: v2
+name: simple-web-app
+description: A Helm chart for a simple NGINX web server
+type: application
+version: 0.1.0
+appVersion: "1.25.0"
